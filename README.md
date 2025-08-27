@@ -2,15 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f33f3f,100:f7b182&height=180&text=Jinsoo's%20Github&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-<!-- Tech Stacks (grouped) -->
-<style>
-  .tech-section { margin-bottom: 12px; }
-  .tech-section h3 { margin: 8px 0 6px 0; font-size: 14px; color: #2b2f33; }
-  .badges { display:flex; flex-wrap:wrap; gap:6px; align-items:center; line-height:0; }
-  .badges img { height:32px; vertical-align:middle; }
-  .container { text-align:left; }
-</style>
 
 <div class="container">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
