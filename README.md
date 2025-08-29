@@ -62,7 +62,7 @@
   </div>
 </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Any Portfolio </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Other Portfolio </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/3fe5098e8d814b2c81e0b684d61faa37> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/3fe5098e8d814b2c81e0b684d61faa37"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
