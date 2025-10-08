@@ -62,4 +62,16 @@
   </div>
 </div>
 
-    
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚Project </h2>  
+
+| 프로젝트명 | 프로젝트 요약 | 개발 환경 |
+|---|---|---|
+| ARM Cortex-M 기반 게임 제작 프로젝트 | Cortex-M 계열 MCU 기반 인터럽트, PWM 등의 임베디드 기술 활용 게임 구현 | C, ARM Cortex-M, Embedded, Visual Studio|
+| UART Protocol 기반 타이머 및 센서 제어 프로젝트 | UART로 제어되는 FSM 기반 타이머와 센서(DHT11, SR04) 인터페이스 설계 및 Basys3 보드에서의 검증 | Verilog (HDL), Xilinx Vivado, Basys3 (FPGA), DHT11 (Sensor) , HC-SR04 (Sensor) |
+| 512 Fixed-Point FFT 하드웨어 설계 프로젝트 | 고정소수점 연산 기반 FFT 하드웨어 설계·검증(MATLAB 테스트 벡터 생성) 및 합성·게이트 레벨 시뮬레이션 수행 | SystemVerilog (HDL), MATLAB (Test Vector), Synopsys (Design Compiler, VCS, Verdi), Xilinx Vivado, Linux, Vim  |
+| RISC-V 32bit Multi-Cycle CPU 설계 프로젝트 | RV32I Instruction 따르는 멀티사이클 32비트 CPU 설계 및 기능 검증 | SystemVerilog (HDL), RISC-V RV32I (Instruction Set), Xilinx Vivado, C-Compiler, Machine Code |
+| APB/AXI Protocol 설계 프로젝트 | APB/AXI 마스터·슬레이브 RTL 설계와 검증 | SystemVerilog (HDL), AXI4/APB (Protocol), Xilinx Vivado (Design Tool)|
+| VGA를 활용한 H/W 도로 교통 감시 시스템 설계 프로젝트 | 실시간 카메라 영상 픽셀을 이미지 처리 알고리즘을 적용하고 VGA를 통해 시각화하는 실시간 교통 감시 시스템 하드웨어 구현 | SystemVerilog (HDL), VGA, Camera(OV7670), Basys3 (FPGA), Xilinx Vivado |
+
+</div>
