@@ -5,7 +5,13 @@
         
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️Jinsoo's Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>세종대학교 전자정보통신공학과 졸업.</li><li>대한상공회의소 AI시스템 반도체 2기 수료.</li><li>Verilog, Synopsys, Verdi 등 HDL Tool 활용 프로젝트 경험 다수.</li><li>CPU 및 Peripheral 설계 프로젝트 진행.</li><li>STM32 CPU Embedded 프로젝트 경험 有.</li><li>이메일 : down6263@naver.com </div> 
+    
+- 세종대학교 전자정보통신공학과 졸업.
+- 대한상공회의소 AI시스템 반도체 2기 수료.
+- Verilog, Synopsys, Verdi 등 HDL Tool 활용 프로젝트 경험 다수.
+- CPU 및 Peripheral 설계 프로젝트 진행.
+- STM32 CPU Embedded 프로젝트 경험 有.
+- 이메일 : down6263@naver.com
     </div>
     
 <div class="container">
